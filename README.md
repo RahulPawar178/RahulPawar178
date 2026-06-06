@@ -91,7 +91,7 @@ I'm a **Developer** & **Educator** specializing in **Development, DevOps, and Pl
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapawar.2022@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rapawar.2022@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rapawar.2022@gmail.com)
 
 </div>
 
